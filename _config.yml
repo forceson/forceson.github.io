@@ -13,12 +13,12 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "forceson's blog"
 title_separator          : "-"
 name                     : "forceson"
@@ -88,9 +88,9 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : "jeongki.son.1"
+  app_id                 : "1060711404123160"
+  publisher              : "forceson-blog"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "손정기"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Seoul"
   email            : "forceson23@gmail.com"
@@ -126,10 +126,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/jeongki.son.1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://www.github.com/forceson"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jeongki-son-624b67104/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,10 +145,13 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url:  "https://www.facebook.com/jeongki.son.1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://www.github.com/forceson"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jeongki-son-624b67104/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -304,6 +310,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-remote_theme : mmistakes/minimal-mistakes
 
