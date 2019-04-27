@@ -1,7 +1,13 @@
 ---
-title: "Page A"
+title: "About"
 permalink: /about/
-date: 2011-06-23T18:38:52+00:00
+date: 2019-04-28T03:47:52+00:00
 ---
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+My name is Jeongki Son. I am very interested in Android, Java, Kotlin.  
+  
+I have been studying Android since 2017.
+
+## Contact
+
+email : forceson23@gmail.com

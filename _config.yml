@@ -19,10 +19,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "forceson's blog"
+title                    : "느리더라도 확실하게"
 title_separator          : "-"
 name                     : "forceson"
-description              : "An amazing website."
+description              : "forceson's tech blog."
 url                      : "https://forceson.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "손정기"
+  name             : "forceson"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "기본기가 탄탄한 개발자를 꿈꿉니다."
   location         : "Seoul"
   email            : "forceson23@gmail.com"
   links:
