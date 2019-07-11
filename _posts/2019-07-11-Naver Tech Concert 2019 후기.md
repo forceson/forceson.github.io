@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Naver Tech Concert 2019 후기
-category: Dev
+category: 후기
 tags: [후기]
 ---
 
