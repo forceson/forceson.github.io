@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Naver Tech Concert 2019 후기
+last_modified_at: 2019-07-11T23:17:00+09:00
 category: 후기
 tags: [후기]
 ---
