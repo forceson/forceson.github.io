@@ -201,14 +201,18 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
+# markdown: redcarpet
 markdown: kramdown
-highlighter: rouge
+highlighter: rouge 
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
 
 # Markdown Processing
+redcarpet:
+  extensions: ["fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
 kramdown:
   input: GFM
   hard_wrap: false
