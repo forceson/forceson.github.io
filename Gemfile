@@ -30,6 +30,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'jekyll-include-cache'
-gem 'redcarpet', '~> 3.2.3'
+gem 'redcarpet', '~> 3.5.1'
 gem 'pygments.rb'
 
